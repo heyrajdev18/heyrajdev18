@@ -1,7 +1,6 @@
 # Hi, I am Raj Kumar 👋
 
-Full Stack Developer 
-Building with React · Node.js · Express · MongoDB
+Full Stack Developer building scalable web applications with React, Node.js, Express & MongoDB 🚀
 
 ## What I am currently doing
 - 🔨 Building full stack web applications daily
