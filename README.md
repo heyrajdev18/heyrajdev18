@@ -1,4 +1,4 @@
-# Hi, I am [Raj Kumar] 👋
+# Hi, I am Raj Kumar 👋
 
 Full Stack Developer 
 Building with React · Node.js · Express · MongoDB
